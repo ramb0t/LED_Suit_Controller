@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">LEDController</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">LEDController</string>
+    <string name="sb_name_blue">Blue:</string>
+    <string name="sb_name_red">Red:</string>
+    <string name="sb_name_green">Green:</string>
+
+</resources>
