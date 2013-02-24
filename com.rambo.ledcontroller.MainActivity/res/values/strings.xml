@@ -6,5 +6,16 @@
     <string name="sb_name_blue">Blue:</string>
     <string name="sb_name_red">Red:</string>
     <string name="sb_name_green">Green:</string>
+    <string name="btOn">LEDs On</string>
+    <string name="btOff">LEDs Off</string>
+    <string name="mode">Modes:</string>
+    <string name="mode1">Music</string>
+    <string name="mode2">Rainbow</string>
+    <string name="mode3">Strobe</string>
+    <string name="mode4">NYAN.</string>
+    <string name="mode5">Sin</string>
+    <string name="mode6">Shoot</string>
+    <string name="mode7">Mode 7</string>
+    <string name="mode8">Mode 8</string>
 
 </resources>
